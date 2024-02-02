@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MariaDB Quirks.md",
+                "file": "Databases/MariaDB/MariaDB Quirks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MariaDB Quirks.md",
+                "file": "Databases/MariaDB/MariaDB Quirks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,22 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "484bf91ad2b1ae0f",
+  "active": "44fe0caac144cb1a",
   "lastOpenFiles": [
-    "Databases/PostgreSQL quirks.md",
-    "Databases/MariaDB Quirks.md",
-    "Databases/Oracle Quirks.md",
-    "Databases/SQLite Quirks.md",
+    "Databases/SQLite",
+    "Databases/PostgreSQL",
+    "Databases/Oracle",
+    "Databases/MariaDB",
+    "Science stuff/Бритва Алдера.md",
+    "Databases/MariaDB/MariaDB Quirks.md",
+    "Databases/PostgreSQL/PostgreSQL quirks.md",
+    "Databases/Oracle/Oracle Quirks.md",
+    "Databases/SQLite/SQLite Quirks.md",
     "Algorithms/Basic glossary/Простой  цикл.md",
     "Databases",
     "Algorithms/Basic glossary/Big-O notation.md",
     "Algorithms/Basic glossary/Root node.md",
-    "Паттерны проектирования/Итератор.md",
+    "Software design patterns/Итератор.md",
     "Crypto/Шифр Цезаря.md",
     "Crypto/ROT13.md",
     "Algorithms/Dynamic algorithm/Travelling Salesman Problem.md",
@@ -140,11 +145,9 @@
     "Data Structures/Arrays&List/Array.md",
     "Data Structures/Queue.md",
     "Algorithms/Tree algorithm/Pre-order traversal.md",
-    "Algorithms/Tree algorithm/Post-order traversal.md",
-    "Algorithms/Tree algorithm/Level-order traversal.md",
     "Crypto",
     "Algorithms/Tree algorithm",
-    "Паттерны проектирования",
+    "Software design patterns",
     "Algorithms/Graph algortihm"
   ]
 }
