@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "04b983d16a68c82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "169735778c6c2dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d560abd04ba97e2e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df3e51dd60b67feb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d5f03daf23528e4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "61962b7591efd465",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#O",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8aef74810b2e1c04",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a4030f924c469b6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3d5f03daf23528e4",
+  "lastOpenFiles": [
+    "Data Structures/Arrays&List/ArrayList.md",
+    "Data Structures/Arrays&List/Circular Array.md",
+    "Algorithms/Branch and bound.md",
+    "Data Structures/Arrays&List/Skip List.md",
+    "Algorithms/Genetic algorithm.md",
+    "Algorithms/Ant colony optimization algorithm.md",
+    "Algorithms/Elastic net regularization.md",
+    "Algorithms/Simulated annealing.md",
+    "Algorithms/Greedy algorithm/Borůvka's algorithm.md",
+    "Data Structures/Stack.md"
+  ]
+}

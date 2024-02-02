@@ -1,0 +1,1 @@
+**Circular Array** is really just a regular **Array List** with a clever implementation: we will try to mimic the implementation of a [[Linked List]] .

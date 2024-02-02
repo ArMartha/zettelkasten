@@ -1,0 +1,1 @@
+Data structure which can contain only unique elements

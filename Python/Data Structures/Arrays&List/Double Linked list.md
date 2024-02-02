@@ -1,0 +1,2 @@
+Dynamically-allocated data structures which represents a set of linked objects - nodes. Every nodes has two links: to the next node and the previous.
+It allows to traverse [[Linked List]] in both directions

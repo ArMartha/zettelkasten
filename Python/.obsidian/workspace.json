@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "04b983d16a68c82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e692f2687ef3fd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44fe0caac144cb1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d32af35ec24de0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c57739f6b92c6bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb0b58b8b5bd9e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484bf91ad2b1ae0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77623c6653e3b898",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6f002280c6cc41c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cd964b4365d4413",
+    "type": "split",
+    "children": [
+      {
+        "id": "9023ea668d813322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f35a575213baef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures/Heap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "b6f002280c6cc41c",
+  "lastOpenFiles": [
+    "Data Structures/Бинарное дерево.md",
+    "Data Structures/Дерево отрезков.md",
+    "Data Structures/Дерево.md",
+    "Data Structures/Граф.md",
+    "Data Structures/Deque.md",
+    "Data Structures/Binary Tree.md",
+    "Data Structures/Arrays&List/Array.md",
+    "Data Structures/Queue.md",
+    "Algorithms/Tree algorithm/Pre-order traversal.md",
+    "Algorithms/Tree algorithm/Post-order traversal.md",
+    "Algorithms/Tree algorithm/Level-order traversal.md",
+    "Algorithms/Tree algorithm/In-order traversal.md",
+    "Криптография/Шифр Цезаря.md",
+    "Криптография/ROT13.md",
+    "Algorithms/Шаблоны решения алгоритмических задач/Модифицированный бинарный поиск.md",
+    "Algorithms/Шаблоны решения алгоритмических задач/Дерево BFS.md",
+    "Algorithms/Шаблоны решения алгоритмических задач/Две кучи.md",
+    "Algorithms/Шаблоны решения алгоритмических задач/Два указателя или итератора.md",
+    "Algorithms/Шаблоны решения алгоритмических задач/Быстрый и медленный указатель.md",
+    "Algorithms/Шаблоны решения алгоритмических задач/K-Way слияние.md",
+    "Data Structures/Некорневое дерево.md",
+    "Data Structures/Лес.md",
+    "Data Structures/Корневое дерево.md",
+    "Data Structures/Graph.md",
+    "Data Structures/Swiss Map.md",
+    "Data Structures/Stack.md",
+    "Криптография",
+    "Без названия.canvas",
+    "Algorithms/Tree algorithm",
+    "Паттерны проектирования",
+    "Algorithms/Graph algortihm"
+  ]
+}

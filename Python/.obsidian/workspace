@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "04b983d16a68c82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2050ed5e41b2e2a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Data Structures/Circular Array.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df3e51dd60b67feb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d5f03daf23528e4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "61962b7591efd465",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#O",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8aef74810b2e1c04",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a4030f924c469b6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Data Structures/Circular Array.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2050ed5e41b2e2a3",
+  "lastOpenFiles": [
+    "Data Structures/Skip List.md",
+    "Math/Geometric distribution.md",
+    "Math/Bernoulli distribution.md",
+    "Data Structures/Linked List.md",
+    "Data Structures/ArrayList.md",
+    "Data Structures/Double Linked list.md",
+    "Data Structures/Array.md",
+    "Python features/Python.md",
+    "Basic glossary/Big-O notation.md",
+    "O(1).md"
+  ]
+}
