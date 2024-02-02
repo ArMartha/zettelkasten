@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Heap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d32af35ec24de0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Heap.md",
+                "file": "Databases/MariaDB Quirks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Heap.md",
+                "file": "Databases/MariaDB Quirks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,36 +112,37 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "b6f002280c6cc41c",
+  "active": "484bf91ad2b1ae0f",
   "lastOpenFiles": [
+    "Databases/PostgreSQL quirks.md",
+    "Databases/MariaDB Quirks.md",
+    "Databases/Oracle Quirks.md",
+    "Databases/SQLite Quirks.md",
+    "Algorithms/Basic glossary/Простой  цикл.md",
+    "Databases",
+    "Algorithms/Basic glossary/Big-O notation.md",
+    "Algorithms/Basic glossary/Root node.md",
+    "Паттерны проектирования/Итератор.md",
+    "Crypto/Шифр Цезаря.md",
+    "Crypto/ROT13.md",
+    "Algorithms/Dynamic algorithm/Travelling Salesman Problem.md",
+    "Data Structures/Dictionary.md",
+    "Без названия.canvas",
+    "Data Structures/Deque.md",
+    "Math/Geometric distribution.md",
+    "Math/Bernoulli distribution.md",
+    "Data Structures/Heap.md",
     "Data Structures/Бинарное дерево.md",
     "Data Structures/Дерево отрезков.md",
     "Data Structures/Дерево.md",
     "Data Structures/Граф.md",
-    "Data Structures/Deque.md",
     "Data Structures/Binary Tree.md",
     "Data Structures/Arrays&List/Array.md",
     "Data Structures/Queue.md",
     "Algorithms/Tree algorithm/Pre-order traversal.md",
     "Algorithms/Tree algorithm/Post-order traversal.md",
     "Algorithms/Tree algorithm/Level-order traversal.md",
-    "Algorithms/Tree algorithm/In-order traversal.md",
-    "Криптография/Шифр Цезаря.md",
-    "Криптография/ROT13.md",
-    "Algorithms/Шаблоны решения алгоритмических задач/Модифицированный бинарный поиск.md",
-    "Algorithms/Шаблоны решения алгоритмических задач/Дерево BFS.md",
-    "Algorithms/Шаблоны решения алгоритмических задач/Две кучи.md",
-    "Algorithms/Шаблоны решения алгоритмических задач/Два указателя или итератора.md",
-    "Algorithms/Шаблоны решения алгоритмических задач/Быстрый и медленный указатель.md",
-    "Algorithms/Шаблоны решения алгоритмических задач/K-Way слияние.md",
-    "Data Structures/Некорневое дерево.md",
-    "Data Structures/Лес.md",
-    "Data Structures/Корневое дерево.md",
-    "Data Structures/Graph.md",
-    "Data Structures/Swiss Map.md",
-    "Data Structures/Stack.md",
-    "Криптография",
-    "Без названия.canvas",
+    "Crypto",
     "Algorithms/Tree algorithm",
     "Паттерны проектирования",
     "Algorithms/Graph algortihm"
