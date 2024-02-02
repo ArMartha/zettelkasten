@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/MariaDB/MariaDB Quirks.md",
+                "file": "Data Structures/Priority Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/MariaDB/MariaDB Quirks.md",
+                "file": "Data Structures/Priority Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,12 +114,13 @@
   },
   "active": "44fe0caac144cb1a",
   "lastOpenFiles": [
+    "Data Structures/Heap.md",
+    "Databases/MariaDB/MariaDB Quirks.md",
     "Databases/SQLite",
     "Databases/PostgreSQL",
     "Databases/Oracle",
     "Databases/MariaDB",
     "Science stuff/Бритва Алдера.md",
-    "Databases/MariaDB/MariaDB Quirks.md",
     "Databases/PostgreSQL/PostgreSQL quirks.md",
     "Databases/Oracle/Oracle Quirks.md",
     "Databases/SQLite/SQLite Quirks.md",
@@ -136,7 +137,6 @@
     "Data Structures/Deque.md",
     "Math/Geometric distribution.md",
     "Math/Bernoulli distribution.md",
-    "Data Structures/Heap.md",
     "Data Structures/Бинарное дерево.md",
     "Data Structures/Дерево отрезков.md",
     "Data Structures/Дерево.md",
