@@ -11,14 +11,11 @@
             "id": "44fe0caac144cb1a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Data Structures/Heap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Data Structures/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +114,8 @@
   },
   "active": "44fe0caac144cb1a",
   "lastOpenFiles": [
-    "Data Structures/Heap.md",
     "Без названия.canvas",
+    "Data Structures/Heap.md",
     "Algorithms/Elastic net regularization.md",
     "Databases/Clickhouse",
     "Algorithms/Optimisation/Loop fusion.md",
