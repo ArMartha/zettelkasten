@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Heap.md",
+                "file": "Data Structures/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Heap.md",
+                "file": "Data Structures/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "44fe0caac144cb1a",
   "lastOpenFiles": [
-    "Без названия.canvas",
     "Data Structures/Heap.md",
+    "Без названия.canvas",
     "Algorithms/Elastic net regularization.md",
     "Databases/Clickhouse",
     "Algorithms/Optimisation/Loop fusion.md",
@@ -132,7 +132,7 @@
     "Algorithms/Dijkstra's Algorithm.md",
     "Algorithms/HyperLogLog.md",
     "Crypto/Caesar's Cipher.md",
-    "Data Structures/Binary tree.md",
+    "Data Structures/Binary Search Tree.md",
     "Data Structures/Arrays&List/Двоичное дерево.md",
     "Data Structures/Unrooted tree.md",
     "Data Structures/Forest.md",
