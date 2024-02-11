@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Data Structures/Balanced Binary Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c143d23e484a7804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Data Structures/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2889608c5d69bdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Priority Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +137,17 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "44fe0caac144cb1a",
+  "active": "c143d23e484a7804",
   "lastOpenFiles": [
+    "Data Structures/Balanced Binary Tree.md",
+    "Unbalanced Binary Tree.md",
+    "Data Structures/Binary Search Tree.md",
+    "Data Structures/Deque.md",
+    "Data Structures/Forest.md",
+    "Data Structures/Priority Queue.md",
+    "Data Structures/Rooted trees.md",
+    "Science stuff/Hanlon's razor.md",
+    "Science stuff/Alder's razor.md",
     "Data Structures/Heap.md",
     "Без названия.canvas",
     "Algorithms/Elastic net regularization.md",
@@ -132,15 +166,7 @@
     "Algorithms/Dijkstra's Algorithm.md",
     "Algorithms/HyperLogLog.md",
     "Crypto/Caesar's Cipher.md",
-    "Data Structures/Binary Search Tree.md",
     "Data Structures/Arrays&List/Двоичное дерево.md",
-    "Data Structures/Unrooted tree.md",
-    "Data Structures/Forest.md",
-    "Data Structures/Acyclic Graph.md",
-    "Data Structures/Tree.md",
-    "Data Structures/Deque.md",
-    "Data Structures/Priority Queue.md",
-    "Linked_Graph.md",
     "Databases/SQLite",
     "Databases/PostgreSQL",
     "Databases/Oracle",
