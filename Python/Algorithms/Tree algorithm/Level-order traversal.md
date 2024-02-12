@@ -2,7 +2,7 @@ We visit nodes level-by-level (where root is the "first level", its children are
 
 Python code:
 
-`````python
+```python
 def level_order(root):
     ans = []
     if not root:
@@ -20,3 +20,4 @@ def level_order(root):
         level = new_level
         ans.append(current)
     return ans
+    ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Balanced Binary Tree.md",
+                "file": "Data Structures/Trees/Balanced Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Binary Search Tree.md",
+                "file": "Data Structures/Trees/Segment tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d949a2f037d512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Trees/Randomized Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65b481ebc717d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Trees/Treap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89d03a5d8eb77fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Trees/Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8f1edb66020b984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Tree algorithm/AVL Rotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Binary Search Tree.md",
+                "file": "Algorithms/Tree algorithm/AVL Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,13 +187,28 @@
   },
   "active": "484bf91ad2b1ae0f",
   "lastOpenFiles": [
-    "Data Structures/Balanced Binary Tree.md",
-    "Data Structures/Unbalanced Binary Tree.md",
-    "Data Structures/Binary Search Tree.md",
+    "Algorithms/Tree algorithm/Pre-order traversal.md",
+    "Algorithms/Tree algorithm/Post-order traversal.md",
+    "Algorithms/Tree algorithm/Level-order traversal.md",
+    "Algorithms/Tree algorithm/In-order traversal.md",
+    "Algorithms/Tree algorithm/DFS.md",
+    "Algorithms/Tree algorithm/AVL Rotation.md",
+    "Algorithms/Tree algorithm/BFS.md",
+    "Algorithms/Binary search.md",
+    "Data Structures/Trees/AVL Tree.md",
+    "Data Structures/Trees/Binary Search Tree.md",
+    "Без названия",
+    "Data Structures/Trees/Treap.md",
+    "Data Structures/Trees/Randomized Search Tree.md",
+    "Data Structures/Trees/Segment tree.md",
+    "Data Structures/Trees/Forest.md",
+    "Data Structures/Trees/Unbalanced Binary Tree.md",
+    "Data Structures/Trees/Minimal spanning tree.md",
+    "Data Structures/Trees",
+    "Data Structures/Trees/Balanced Binary Tree.md",
     "Data Structures/Deque.md",
-    "Data Structures/Forest.md",
     "Data Structures/Priority Queue.md",
-    "Data Structures/Rooted trees.md",
+    "Data Structures/Trees/Rooted trees.md",
     "Science stuff/Hanlon's razor.md",
     "Science stuff/Alder's razor.md",
     "Data Structures/Heap.md",
@@ -154,27 +217,12 @@
     "Databases/Clickhouse",
     "Algorithms/Optimisation/Loop fusion.md",
     "Algorithms/Solving pattern/BFS Tree (solving pattern).md",
-    "Algorithms/Solving pattern/Две кучи.md",
-    "Algorithms/Solving pattern/K-Way merging.md",
-    "Algorithms/Optimisation/Loop unrolling.md",
-    "Algorithms/Optimisation/Duff's device.md",
-    "Algorithms/Basic glossary/Simple path.md",
-    "Algorithms/Basic glossary/Simple circuit.md",
-    "Algorithms/Graph algortihm/Blossom algorithm.md",
-    "Algorithms/Tree algorithm/Level-order traversal.md",
-    "Algorithms/Manacher's algorithm.md",
-    "Algorithms/Dijkstra's Algorithm.md",
-    "Algorithms/HyperLogLog.md",
-    "Crypto/Caesar's Cipher.md",
-    "Data Structures/Arrays&List/Двоичное дерево.md",
     "Databases/SQLite",
     "Databases/PostgreSQL",
     "Databases/Oracle",
     "Databases/MariaDB",
     "Databases",
     "Crypto",
-    "Algorithms/Tree algorithm",
-    "Software design patterns",
-    "Algorithms/Graph algortihm"
+    "Algorithms/Tree algorithm"
   ]
 }

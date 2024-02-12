@@ -12,3 +12,4 @@ Worst-case time complexity of inserting, finding, and removing elements of a BST
 
 BST are relatively efficient when they are balanced (logarithmic time), they become unbalanced fairly easily depending on the order in which the elements are inserted.
 
+The average-case time complexity of BST insertion, removal, and finding 
