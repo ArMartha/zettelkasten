@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Tree algorithm/AVL Rotation.md",
+                "file": "Software design patterns/Iterator.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Tree algorithm/AVL Rotation.md",
+                "file": "Software design patterns/Iterator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,14 +185,19 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "484bf91ad2b1ae0f",
+  "active": "f8f1edb66020b984",
   "lastOpenFiles": [
+    "Science stuff/Hanlon's razor.md",
+    "Algorithms/Distributed algorithms/Chord.md",
+    "Data Structures/Swiss Map.md",
+    "Algorithms/Solving pattern/BFS Tree (solving pattern).md",
+    "Algorithms/Tree algorithm/AVL Rotation.md",
+    "Data Structures/Trees/Balanced Binary Tree.md",
     "Algorithms/Tree algorithm/Pre-order traversal.md",
     "Algorithms/Tree algorithm/Post-order traversal.md",
     "Algorithms/Tree algorithm/Level-order traversal.md",
     "Algorithms/Tree algorithm/In-order traversal.md",
     "Algorithms/Tree algorithm/DFS.md",
-    "Algorithms/Tree algorithm/AVL Rotation.md",
     "Algorithms/Tree algorithm/BFS.md",
     "Algorithms/Binary search.md",
     "Data Structures/Trees/AVL Tree.md",
@@ -205,18 +210,13 @@
     "Data Structures/Trees/Unbalanced Binary Tree.md",
     "Data Structures/Trees/Minimal spanning tree.md",
     "Data Structures/Trees",
-    "Data Structures/Trees/Balanced Binary Tree.md",
     "Data Structures/Deque.md",
     "Data Structures/Priority Queue.md",
     "Data Structures/Trees/Rooted trees.md",
-    "Science stuff/Hanlon's razor.md",
     "Science stuff/Alder's razor.md",
     "Data Structures/Heap.md",
     "Без названия.canvas",
-    "Algorithms/Elastic net regularization.md",
     "Databases/Clickhouse",
-    "Algorithms/Optimisation/Loop fusion.md",
-    "Algorithms/Solving pattern/BFS Tree (solving pattern).md",
     "Databases/SQLite",
     "Databases/PostgreSQL",
     "Databases/Oracle",
