@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44fe0caac144cb1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Balanced Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c143d23e484a7804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Segment tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d949a2f037d512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Randomized Search Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c65b481ebc717d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Treap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89d03a5d8eb77fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Binary Search Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f8f1edb66020b984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software design patterns/Iterator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2889608c5d69bdf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Priority Queue.md",
+                "file": "Algorithms/Greedy algorithm/Huffman's code.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software design patterns/Iterator.md",
+                "file": "Algorithms/Greedy algorithm/Huffman's code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,12 +114,16 @@
   },
   "active": "f8f1edb66020b984",
   "lastOpenFiles": [
+    "Data Structures/Trees/H-Tree.md",
+    "Data Structures/Priority Queue.md",
+    "Data Structures/Trees/Balanced Binary Tree.md",
+    "Algorithms/Greedy algorithm/Huffman's code.md",
+    "Software design patterns/Iterator.md",
     "Science stuff/Hanlon's razor.md",
     "Algorithms/Distributed algorithms/Chord.md",
     "Data Structures/Swiss Map.md",
     "Algorithms/Solving pattern/BFS Tree (solving pattern).md",
     "Algorithms/Tree algorithm/AVL Rotation.md",
-    "Data Structures/Trees/Balanced Binary Tree.md",
     "Algorithms/Tree algorithm/Pre-order traversal.md",
     "Algorithms/Tree algorithm/Post-order traversal.md",
     "Algorithms/Tree algorithm/Level-order traversal.md",
@@ -211,10 +142,6 @@
     "Data Structures/Trees/Minimal spanning tree.md",
     "Data Structures/Trees",
     "Data Structures/Deque.md",
-    "Data Structures/Priority Queue.md",
-    "Data Structures/Trees/Rooted trees.md",
-    "Science stuff/Alder's razor.md",
-    "Data Structures/Heap.md",
     "Без названия.canvas",
     "Databases/Clickhouse",
     "Databases/SQLite",
