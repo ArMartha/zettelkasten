@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fa59f0cd2e2133a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Caesar's Cipher.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Greedy algorithm/Huffman's code.md",
+                "file": "Crypto/Caesar's Cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,36 +125,36 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "f8f1edb66020b984",
+  "active": "1fa59f0cd2e2133a",
   "lastOpenFiles": [
+    "Crypto/ROT13.md",
+    "Algorithms/Binary search.md",
+    "Algorithms/Ant colony optimization algorithm.md",
+    "Algorithms/Tree algorithm/Pre-order traversal.md",
+    "Algorithms/Tree algorithm/Post-order traversal.md",
+    "Algorithms/Tree algorithm/Level-order traversal.md",
+    "Algorithms/Tree algorithm/In-order traversal.md",
+    "Algorithms/Distributed algorithms/Chord.md",
+    "Algorithms/Basic glossary/Simple path.md",
+    "Algorithms/Basic glossary/Simple circuit.md",
+    "Algorithms/Basic glossary/Root node.md",
+    "Algorithms/Basic glossary/Big-O notation.md",
     "Data Structures/Trees/H-Tree.md",
     "Data Structures/Priority Queue.md",
     "Data Structures/Trees/Balanced Binary Tree.md",
     "Algorithms/Greedy algorithm/Huffman's code.md",
     "Software design patterns/Iterator.md",
     "Science stuff/Hanlon's razor.md",
-    "Algorithms/Distributed algorithms/Chord.md",
     "Data Structures/Swiss Map.md",
     "Algorithms/Solving pattern/BFS Tree (solving pattern).md",
     "Algorithms/Tree algorithm/AVL Rotation.md",
-    "Algorithms/Tree algorithm/Pre-order traversal.md",
-    "Algorithms/Tree algorithm/Post-order traversal.md",
-    "Algorithms/Tree algorithm/Level-order traversal.md",
-    "Algorithms/Tree algorithm/In-order traversal.md",
     "Algorithms/Tree algorithm/DFS.md",
     "Algorithms/Tree algorithm/BFS.md",
-    "Algorithms/Binary search.md",
     "Data Structures/Trees/AVL Tree.md",
     "Data Structures/Trees/Binary Search Tree.md",
     "Без названия",
     "Data Structures/Trees/Treap.md",
-    "Data Structures/Trees/Randomized Search Tree.md",
-    "Data Structures/Trees/Segment tree.md",
-    "Data Structures/Trees/Forest.md",
-    "Data Structures/Trees/Unbalanced Binary Tree.md",
-    "Data Structures/Trees/Minimal spanning tree.md",
     "Data Structures/Trees",
-    "Data Structures/Deque.md",
     "Без названия.canvas",
     "Databases/Clickhouse",
     "Databases/SQLite",
