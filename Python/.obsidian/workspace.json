@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/Caesar's Cipher.md",
+                "file": "Data Structures/Arrays&List/Circular Array.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Caesar's Cipher.md",
+                "file": "Data Structures/Arrays&List/Circular Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,11 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "1fa59f0cd2e2133a",
+  "active": "484bf91ad2b1ae0f",
   "lastOpenFiles": [
+    "Data Structures/Arrays&List/ArrayList.md",
+    "Data Structures/Arrays&List/Array.md",
+    "Crypto/Caesar's Cipher.md",
     "Crypto/ROT13.md",
     "Algorithms/Binary search.md",
     "Algorithms/Ant colony optimization algorithm.md",
@@ -150,10 +153,7 @@
     "Algorithms/Tree algorithm/AVL Rotation.md",
     "Algorithms/Tree algorithm/DFS.md",
     "Algorithms/Tree algorithm/BFS.md",
-    "Data Structures/Trees/AVL Tree.md",
-    "Data Structures/Trees/Binary Search Tree.md",
     "Без названия",
-    "Data Structures/Trees/Treap.md",
     "Data Structures/Trees",
     "Без названия.canvas",
     "Databases/Clickhouse",
