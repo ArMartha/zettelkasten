@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d79340701165ad3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритм Укконена.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01feff86bb0d88da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритм Укконена.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,10 +149,13 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "0ac0ff010450944a",
+  "active": "01feff86bb0d88da",
   "lastOpenFiles": [
-    "Algorithms/Branch and bound.md",
+    "Суффиксные ссылки.md",
     "Алгоритм Укконена.md",
+    "Неявное суффиксное дерево.md",
+    "Без названия",
+    "Algorithms/Branch and bound.md",
     "Algorithms/Optimisation/Duff's device.md",
     "Data Structures/Trees/Суффиксное дерево.md",
     "Algorithms/Basic glossary/Big-O notation.md",
@@ -151,9 +178,6 @@
     "Algorithms/Distributed algorithms/Chord.md",
     "Algorithms/Basic glossary/Simple path.md",
     "Algorithms/Basic glossary/Simple circuit.md",
-    "Algorithms/Basic glossary/Root node.md",
-    "Data Structures/Trees/H-Tree.md",
-    "Без названия",
     "Data Structures/Trees",
     "Без названия.canvas",
     "Databases/Clickhouse",
