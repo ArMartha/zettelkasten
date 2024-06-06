@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eded0fc3639383d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Trees/Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгоритм Укконена.md",
+                "file": "Data Structures/Trees/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +161,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "01feff86bb0d88da",
+  "active": "eded0fc3639383d1",
   "lastOpenFiles": [
+    "Data Structures/Trees/Treap.md",
+    "Data Structures/Trees/Randomized Search Tree.md",
     "Суффиксные ссылки.md",
     "Алгоритм Укконена.md",
     "Неявное суффиксное дерево.md",
@@ -176,8 +190,6 @@
     "Algorithms/Tree algorithm/Level-order traversal.md",
     "Algorithms/Tree algorithm/In-order traversal.md",
     "Algorithms/Distributed algorithms/Chord.md",
-    "Algorithms/Basic glossary/Simple path.md",
-    "Algorithms/Basic glossary/Simple circuit.md",
     "Data Structures/Trees",
     "Без названия.canvas",
     "Databases/Clickhouse",
