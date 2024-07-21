@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa0c9a50fc021dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Trees/Binary Search Tree.md",
+                "file": "Data Structures/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +173,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "eded0fc3639383d1",
+  "active": "aa0c9a50fc021dd9",
   "lastOpenFiles": [
+    "Data Structures/Graph.md",
+    "Algorithms/Graph algortihm/Blossom algorithm.md",
     "Data Structures/Trees/Treap.md",
     "Data Structures/Trees/Randomized Search Tree.md",
     "Суффиксные ссылки.md",
@@ -179,7 +193,6 @@
     "Algorithms/Tree algorithm/BFS.md",
     "Algorithms/Фильтр Блума.md",
     "Algorithms/Tree algorithm/Post-order traversal.md",
-    "Algorithms/Graph algortihm/Blossom algorithm.md",
     "Data Structures/Arrays&List/ArrayList.md",
     "Data Structures/Arrays&List/Array.md",
     "Crypto/Caesar's Cipher.md",
@@ -189,7 +202,6 @@
     "Algorithms/Tree algorithm/Pre-order traversal.md",
     "Algorithms/Tree algorithm/Level-order traversal.md",
     "Algorithms/Tree algorithm/In-order traversal.md",
-    "Algorithms/Distributed algorithms/Chord.md",
     "Data Structures/Trees",
     "Без названия.canvas",
     "Databases/Clickhouse",
