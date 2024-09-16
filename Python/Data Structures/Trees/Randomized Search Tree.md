@@ -1,1 +1,1 @@
-Special type of [[Treap]]
+Special type of [[Treap]], instead of us supplying both a _key_ and a _priority_ for insertion, we only supply a _key_, and the _priority_ for the new (_key_, _priority_) pair is randomly generated for us.
