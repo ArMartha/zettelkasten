@@ -1,0 +1,3 @@
+Adelson-Velsky-Landis tree/
+Revolutionary self-balancing tree that achieves a worst-case time complexity of **O(log _n_)**.
+An **AVL Tree** is a **[[Data Structures/Trees/Binary Search Tree|Binary Search Tree]]** in which, for all nodes in the tree, the _heights_ of the two child subtrees of the node differ by at most one. If, at any time, the two subtree heights differ by more than one, rebalancing is done to restore this property.
