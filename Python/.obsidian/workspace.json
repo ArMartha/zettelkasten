@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Trees/Binary Search Tree.md",
+                "file": "Algorithms/Tree algorithm/Level-order traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Trees/Binary Search Tree.md",
+                "file": "Algorithms/Tree algorithm/Level-order traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,11 +173,16 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "484bf91ad2b1ae0f",
+  "active": "6db492bb9520c0cc",
   "lastOpenFiles": [
+    "Algorithms/Tree algorithm/In-order traversal.md",
+    "Algorithms/Tree algorithm/Post-order traversal.md",
+    "Algorithms/Tree algorithm/Pre-order traversal.md",
+    "Algorithms/Tree algorithm/AVL Rotation.md",
+    "Algorithms/Tree algorithm/DFS.md",
     "Data Structures/Trees/AVL Tree.md",
-    "Data Structures/Trees/Суффиксное дерево.md",
     "Data Structures/Trees/Binary Search Tree.md",
+    "Data Structures/Trees/Суффиксное дерево.md",
     "Data Structures/Trees/Randomized Search Tree.md",
     "Binary Search Tree.md",
     "Data Structures/Trees/Balanced Binary Tree.md",
@@ -196,12 +201,7 @@
     "Data Structures/Суффиксные ссылки.md",
     "Science stuff/Биология",
     "Algorithms/Алгоритм Укконена.md",
-    "Algorithms/Tree algorithm/AVL Rotation.md",
     "Data Structures/Trees/Treap.md",
-    "Data Structures/Heap.md",
-    "Data Structures/Trees/Abstract Syntax Tree.md",
-    "Data Structures/Graph.md",
-    "Algorithms/Graph algortihm/Blossom algorithm.md",
     "Data Structures/Trees",
     "Без названия.canvas",
     "Databases/Clickhouse",
