@@ -13,170 +13,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Branch and bound.md",
+                "file": "Science stuff/Биология/M.Pusillus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d79340701165ad3b",
+            "id": "570f962df3ed031b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Алгоритм Укконена.md",
+                "file": "E.coli.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01feff86bb0d88da",
+            "id": "828750074074afe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Алгоритм Укконена.md",
+                "file": "Science stuff/Биология/Acne.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eded0fc3639383d1",
+            "id": "fe0435725f12af2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Trees/Binary Search Tree.md",
+                "file": "Science stuff/Биология/A.Orizae.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa0c9a50fc021dd9",
+            "id": "a0d3c5efb877fe99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/String algorithms/Knuth-Morris-Pratt algorithm.md",
+                "file": "Data Structures/Trees/Minimal spanning tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79bd4bae9953264d",
+            "id": "4d0d8dfac9a01019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Binary search.md",
+                "file": "Data Structures/Trees/2-4 Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e36c18eaee8c21fc",
+            "id": "44710814bd1be290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Фильтр Блума.md",
+                "file": "Science stuff/Биология/A.Niger.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea714774c2f3b8d6",
+            "id": "7721e78190fbccd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science stuff/Биология/C.Synensis.md",
+                "file": "Science stuff/Биология/L.Lactis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07450d2ef76dfac6",
+            "id": "0fa0f897081db9f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science stuff/Биология/S.Cerevisae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83b8e0dd9e2bb726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Geotrichum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bf3bb0074bcf2e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/A. Squae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5f48aac368d359e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Rhinovirus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "236b6c8c93ef71db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/B.Halodurans.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6db492bb9520c0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/String algorithms/Knuth-Morris-Pratt algorithm.md",
+                "file": "Science stuff/Биология/Cladosporium.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science stuff/Биология/B.Halodurans.md",
+                "file": "E.coli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,34 +209,34 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "484bf91ad2b1ae0f",
+  "active": "570f962df3ed031b",
   "lastOpenFiles": [
-    "Science stuff/Биология/Rhinovirus.md",
+    "Science stuff/Биология/M.Pusillus.md",
+    "E.coli.md",
+    "Algorithms/Branch and bound.md",
+    "Science stuff/Биология/Сarotovora.md",
+    "Science stuff/Биология/L.Plantarum.md",
+    "Science stuff/Биология/Fluorescens.md",
+    "Science stuff/Биология/Aeruginosa.md",
+    "Algorithms/Elastic net regularization.md",
+    "Science stuff/Биология/0-157.md",
+    "Science stuff/Биология/A.Niger.md",
     "Science stuff/Биология/B.Halodurans.md",
+    "Science stuff/Биология/Rhinovirus.md",
     "Science stuff/Биология/A. Squae.md",
     "Science stuff/Биология/Geotrichum.md",
-    "Science stuff/Биология/R.Javanicus.md",
-    "Science stuff/Биология/М.Mucedo.md",
-    "Science stuff/Биология/R.Chrisogenum.md",
-    "Science stuff/Биология/A.Niger.md",
-    "Science stuff/Биология/A.Orizae.md",
     "Science stuff/Биология/S.Cerevisae.md",
     "Science stuff/Биология/C.Synensis.md",
     "Algorithms/Фильтр Блума.md",
-    "Algorithms/Dynamic algorithm/Travelling Salesman Problem.md",
-    "Algorithms/Алгоритм Укконена.md",
-    "Algorithms/Traveling Salesman Problem.md",
-    "Algorithms/Simulated annealing.md",
-    "Algorithms/Basic glossary/Simple path.md",
-    "Algorithms/Basic glossary/Simple circuit.md",
-    "Algorithms/Distributed algorithms/Chord.md",
-    "Algorithms/Basic glossary/Big-O notation.md",
-    "Algorithms/Genetic algorithm.md",
-    "Algorithms/Divide and conquer algorithm.md",
-    "Algorithms/Decision tree classification algorithm.md",
-    "Algorithms/Branch and bound.md",
-    "Algorithms/Binary Search Tree.md",
-    "Algorithms/Tree algorithm/Level-order traversal.md",
+    "Algorithms/Binary search.md",
+    "Algorithms/String algorithms/Knuth-Morris-Pratt algorithm.md",
+    "Data Structures/Trees/Binary Search Tree.md",
+    "Science stuff/Биология/Cladosporium.md",
+    "Science stuff/Биология/L.Lactis.md",
+    "Science stuff/Биология/Кордицепс.md",
+    "Science stuff/Биология/P. Pentosaceus.md",
+    "Science stuff/Биология/L.Casei.md",
+    "Science stuff/Биология/A.Awamori.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
