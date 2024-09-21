@@ -92,6 +92,78 @@
             }
           },
           {
+            "id": "ea714774c2f3b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/C.Synensis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07450d2ef76dfac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/S.Cerevisae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b8e0dd9e2bb726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/Geotrichum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bf3bb0074bcf2e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/A. Squae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5f48aac368d359e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/Rhinovirus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "236b6c8c93ef71db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/B.Halodurans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6db492bb9520c0cc",
             "type": "leaf",
             "state": {
@@ -104,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -170,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Фильтр Блума.md",
+                "file": "Science stuff/Биология/B.Halodurans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +269,20 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "e36c18eaee8c21fc",
+  "active": "484bf91ad2b1ae0f",
   "lastOpenFiles": [
+    "Science stuff/Биология/Rhinovirus.md",
+    "Science stuff/Биология/B.Halodurans.md",
+    "Science stuff/Биология/A. Squae.md",
+    "Science stuff/Биология/Geotrichum.md",
+    "Science stuff/Биология/R.Javanicus.md",
+    "Science stuff/Биология/М.Mucedo.md",
+    "Science stuff/Биология/R.Chrisogenum.md",
+    "Science stuff/Биология/A.Niger.md",
+    "Science stuff/Биология/A.Orizae.md",
+    "Science stuff/Биология/S.Cerevisae.md",
+    "Science stuff/Биология/C.Synensis.md",
+    "Algorithms/Фильтр Блума.md",
     "Algorithms/Dynamic algorithm/Travelling Salesman Problem.md",
     "Algorithms/Алгоритм Укконена.md",
     "Algorithms/Traveling Salesman Problem.md",
@@ -214,18 +298,6 @@
     "Algorithms/Binary Search Tree.md",
     "Algorithms/Tree algorithm/Level-order traversal.md",
     "Algorithms/String algorithms",
-    "Algorithms/String algorithms/Rabin-Karp Algorithm.md",
-    "Algorithms/Binary search.md",
-    "Algorithms/Tree algorithm/Post-order traversal.md",
-    "Algorithms/String algorithms/Boyer–Moore string-search algorithm.md",
-    "Algorithms/String algorithms/Knuth-Morris-Pratt algorithm.md",
-    "Data Structures/Heap.md",
-    "Algorithms/Tree algorithm/AVL Rotation.md",
-    "Algorithms/Tree algorithm/DFS.md",
-    "Algorithms/Tree algorithm/BFS.md",
-    "Algorithms/Tree algorithm/In-order traversal.md",
-    "Algorithms/Tree algorithm/Pre-order traversal.md",
-    "Data Structures/Trees/AVL Tree.md",
     "Science stuff/Биология",
     "Data Structures/Trees",
     "Без названия.canvas",
