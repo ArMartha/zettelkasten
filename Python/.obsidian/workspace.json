@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Sorting algorithms/Pyramidal sort.md",
+                "file": "Science stuff/Биология/B.Halodurans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b1e59d14fb6e80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/L.Sakey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c4c3a4936883d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/L.Casei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dcd696d5a91b759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/S. Dysenteriae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cba33c1c6ba728e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/Furfur.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Sorting algorithms/Pyramidal sort.md",
+                "file": "Science stuff/Биология/Furfur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +161,16 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "1ff8619c4bd5c750",
+  "active": "484bf91ad2b1ae0f",
   "lastOpenFiles": [
+    "Science stuff/Биология/P.Shigelloides.md",
+    "Science stuff/Биология/S. Dysenteriae.md",
+    "Science stuff/Биология/L.Casei.md",
+    "Science stuff/Биология/V.Cholerae.md",
+    "Science stuff/Биология/L.Sakey.md",
+    "Science stuff/Биология/V. Parshaemolyticus.md",
+    "Science stuff/Биология/B.Halodurans.md",
+    "Algorithms/Sorting algorithms/Pyramidal sort.md",
     "Algorithms/Sorting algorithms/Natsort.md",
     "Algorithms/Sorting algorithms/Merge sort.md",
     "Algorithms/Sorting algorithms/Insertion sort.md",
@@ -125,21 +182,13 @@
     "Data Structures/Trees/Minimal spanning tree.md",
     "Science stuff/Биология/A.Orizae.md",
     "Science stuff/Биология/Acne.md",
-    "B. Cinerea.md",
+    "Science stuff/Биология/B. Cinerea.md",
     "Science stuff/Биология/B.Brevis.md",
-    "Science stuff/Биология/L.Casei.md",
-    "Science stuff/Биология/L.Sakey.md",
     "Science stuff/Биология/S.Cerevisae.md",
     "Science stuff/Биология/E.coli.md",
-    "S. Sake.md",
+    "Science stuff/Биология/S. Sake.md",
     "Science stuff/Биология/Physarum Polycepharum.md",
     "Science stuff/Биология/M.Pusillus.md",
-    "Algorithms/Branch and bound.md",
-    "Science stuff/Биология/Сarotovora.md",
-    "Science stuff/Биология/L.Plantarum.md",
-    "Science stuff/Биология/Fluorescens.md",
-    "Science stuff/Биология/Aeruginosa.md",
-    "Algorithms/Elastic net regularization.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
