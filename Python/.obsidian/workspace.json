@@ -25,7 +25,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E.coli.md",
+                "file": "Science stuff/Биология/E.coli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d058818528a19626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/S.Cerevisae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5616bfd56eceec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/L.Sakey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0121a41550d811af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/L.Casei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4fa58264752d838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/B.Brevis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b16abc16f1e3a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B. Cinerea.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E.coli.md",
+                "file": "B. Cinerea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,10 +269,18 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "570f962df3ed031b",
+  "active": "40b16abc16f1e3a6",
   "lastOpenFiles": [
+    "Science stuff/Биология/B.Brevis.md",
+    "B. Cinerea.md",
+    "Science stuff/Биология/L.Casei.md",
+    "S. Sake.md",
+    "Science stuff/Биология/L.Sakey.md",
+    "Science stuff/Биология/S.Cerevisae.md",
+    "Science stuff/Биология/A.Orizae.md",
+    "Science stuff/Биология/Physarum Polycepharum.md",
+    "Science stuff/Биология/E.coli.md",
     "Science stuff/Биология/M.Pusillus.md",
-    "E.coli.md",
     "Algorithms/Branch and bound.md",
     "Science stuff/Биология/Сarotovora.md",
     "Science stuff/Биология/L.Plantarum.md",
@@ -225,18 +293,10 @@
     "Science stuff/Биология/Rhinovirus.md",
     "Science stuff/Биология/A. Squae.md",
     "Science stuff/Биология/Geotrichum.md",
-    "Science stuff/Биология/S.Cerevisae.md",
     "Science stuff/Биология/C.Synensis.md",
     "Algorithms/Фильтр Блума.md",
     "Algorithms/Binary search.md",
     "Algorithms/String algorithms/Knuth-Morris-Pratt algorithm.md",
-    "Data Structures/Trees/Binary Search Tree.md",
-    "Science stuff/Биология/Cladosporium.md",
-    "Science stuff/Биология/L.Lactis.md",
-    "Science stuff/Биология/Кордицепс.md",
-    "Science stuff/Биология/P. Pentosaceus.md",
-    "Science stuff/Биология/L.Casei.md",
-    "Science stuff/Биология/A.Awamori.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
