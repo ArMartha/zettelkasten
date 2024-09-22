@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2edc480f5fb6dcee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/Fluorescens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b08ebd5fe775ad29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S. Roxy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science stuff/Биология/Furfur.md",
+                "file": "S. Roxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,9 +185,19 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "484bf91ad2b1ae0f",
+  "active": "b08ebd5fe775ad29",
   "lastOpenFiles": [
+    "Science stuff/Биология/Fluorescens.md",
+    "S. Roxy.md",
+    "Science stuff/Биология/E.coli.md",
     "Science stuff/Биология/P.Shigelloides.md",
+    "Science stuff/Биология/Physarum Polycepharum.md",
+    "Science stuff/Биология/Proteus Vulgaris.md",
+    "Science stuff/Биология/S.Cerevisae.md",
+    "Science stuff/Биология/A.Niger.md",
+    "Science stuff/Биология/A.Awamori.md",
+    "Science stuff/Биология/A.Xylenium.md",
+    "Science stuff/Биология/Furfur.md",
     "Science stuff/Биология/S. Dysenteriae.md",
     "Science stuff/Биология/L.Casei.md",
     "Science stuff/Биология/V.Cholerae.md",
@@ -177,18 +211,8 @@
     "Algorithms/Sorting algorithms/Bubble sort.md",
     "Science stuff/Биология/Cladosporium.md",
     "Science stuff/Биология/L.Lactis.md",
-    "Science stuff/Биология/A.Niger.md",
     "Data Structures/Trees/2-4 Tree.md",
     "Data Structures/Trees/Minimal spanning tree.md",
-    "Science stuff/Биология/A.Orizae.md",
-    "Science stuff/Биология/Acne.md",
-    "Science stuff/Биология/B. Cinerea.md",
-    "Science stuff/Биология/B.Brevis.md",
-    "Science stuff/Биология/S.Cerevisae.md",
-    "Science stuff/Биология/E.coli.md",
-    "Science stuff/Биология/S. Sake.md",
-    "Science stuff/Биология/Physarum Polycepharum.md",
-    "Science stuff/Биология/M.Pusillus.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
