@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метано-ферментативные бактерии.md",
+                "file": "Science stuff/Биология/Метано-ферментативные бактерии.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4113bf8d7bea8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "С.Trichoides.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Метано-ферментативные бактерии.md",
+                "file": "С.Trichoides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,11 +209,12 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "ad4e11bb1ff9e2ac",
+  "active": "e4113bf8d7bea8ef",
   "lastOpenFiles": [
+    "Science stuff/Биология/Метано-ферментативные бактерии.md",
+    "С.Trichoides.md",
     "Science stuff/Биология/V. Parshaemolyticus.md",
-    "Метано-ферментативные бактерии.md",
-    "S. Roxy.md",
+    "Science stuff/Биология/S. Roxy.md",
     "Science stuff/Биология/Fluorescens.md",
     "Science stuff/Биология/E.coli.md",
     "Science stuff/Биология/P.Shigelloides.md",
@@ -224,7 +237,6 @@
     "Algorithms/Sorting algorithms/Bubble sort.md",
     "Science stuff/Биология/Cladosporium.md",
     "Science stuff/Биология/L.Lactis.md",
-    "Data Structures/Trees/2-4 Tree.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
