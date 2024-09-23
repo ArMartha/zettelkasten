@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S. Roxy.md",
+                "file": "Science stuff/Биология/V. Parshaemolyticus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad4e11bb1ff9e2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Метано-ферментативные бактерии.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S. Roxy.md",
+                "file": "Метано-ферментативные бактерии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +197,12 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "b08ebd5fe775ad29",
+  "active": "ad4e11bb1ff9e2ac",
   "lastOpenFiles": [
-    "Science stuff/Биология/Fluorescens.md",
+    "Science stuff/Биология/V. Parshaemolyticus.md",
+    "Метано-ферментативные бактерии.md",
     "S. Roxy.md",
+    "Science stuff/Биология/Fluorescens.md",
     "Science stuff/Биология/E.coli.md",
     "Science stuff/Биология/P.Shigelloides.md",
     "Science stuff/Биология/Physarum Polycepharum.md",
@@ -202,7 +216,6 @@
     "Science stuff/Биология/L.Casei.md",
     "Science stuff/Биология/V.Cholerae.md",
     "Science stuff/Биология/L.Sakey.md",
-    "Science stuff/Биология/V. Parshaemolyticus.md",
     "Science stuff/Биология/B.Halodurans.md",
     "Algorithms/Sorting algorithms/Pyramidal sort.md",
     "Algorithms/Sorting algorithms/Natsort.md",
@@ -212,7 +225,6 @@
     "Science stuff/Биология/Cladosporium.md",
     "Science stuff/Биология/L.Lactis.md",
     "Data Structures/Trees/2-4 Tree.md",
-    "Data Structures/Trees/Minimal spanning tree.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
