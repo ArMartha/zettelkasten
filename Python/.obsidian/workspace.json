@@ -109,14 +109,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "С.Trichoides.md",
+                "file": "Science stuff/Биология/С.Trichoides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "642dacb5c1cb57df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/C.Diptheroid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5c5897a73520c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/V. Parshaemolyticus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df47b5e99eece103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/T. Tonsurans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0bf322d96e97ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/A. Calcoaceticus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e4e93c0ba595e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/S. Aureus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30d1694a5a85b25d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science stuff/Биология/B.Brevis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70cc43a2bf1d950f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B. Subtilis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -182,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С.Trichoides.md",
+                "file": "B. Subtilis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,12 +293,24 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "e4113bf8d7bea8ef",
+  "active": "70cc43a2bf1d950f",
   "lastOpenFiles": [
-    "Science stuff/Биология/Метано-ферментативные бактерии.md",
-    "С.Trichoides.md",
+    "Science stuff/Биология/B.Brevis.md",
+    "B. Subtilis.md",
+    "Science stuff/Биология/A.Awamori.md",
+    "Science stuff/Биология/S. Rouxii.md",
+    "Science stuff/Биология/B. Cinerea.md",
+    "Science stuff/Биология/A. Sojae.md",
+    "M. Canis.md",
+    "Science stuff/Биология/S. Aureus.md",
+    "Science stuff/Биология/A. Calcoaceticus.md",
+    "Science stuff/Биология/T. Tonsurans.md",
     "Science stuff/Биология/V. Parshaemolyticus.md",
-    "Science stuff/Биология/S. Roxy.md",
+    "Science stuff/Биология/S.Perfrigens.md",
+    "Science stuff/Биология/M.Lacunata.md",
+    "Science stuff/Биология/C.Diptheroid.md",
+    "Science stuff/Биология/С.Trichoides.md",
+    "Science stuff/Биология/Метано-ферментативные бактерии.md",
     "Science stuff/Биология/Fluorescens.md",
     "Science stuff/Биология/E.coli.md",
     "Science stuff/Биология/P.Shigelloides.md",
@@ -222,21 +318,9 @@
     "Science stuff/Биология/Proteus Vulgaris.md",
     "Science stuff/Биология/S.Cerevisae.md",
     "Science stuff/Биология/A.Niger.md",
-    "Science stuff/Биология/A.Awamori.md",
     "Science stuff/Биология/A.Xylenium.md",
     "Science stuff/Биология/Furfur.md",
     "Science stuff/Биология/S. Dysenteriae.md",
-    "Science stuff/Биология/L.Casei.md",
-    "Science stuff/Биология/V.Cholerae.md",
-    "Science stuff/Биология/L.Sakey.md",
-    "Science stuff/Биология/B.Halodurans.md",
-    "Algorithms/Sorting algorithms/Pyramidal sort.md",
-    "Algorithms/Sorting algorithms/Natsort.md",
-    "Algorithms/Sorting algorithms/Merge sort.md",
-    "Algorithms/Sorting algorithms/Insertion sort.md",
-    "Algorithms/Sorting algorithms/Bubble sort.md",
-    "Science stuff/Биология/Cladosporium.md",
-    "Science stuff/Биология/L.Lactis.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
