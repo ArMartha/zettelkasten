@@ -193,14 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B. Subtilis.md",
+                "file": "Science stuff/Биология/B. Subtilis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6aacda3067e259e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Trie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B. Subtilis.md",
+                "file": "Data Structures/Trie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,15 +305,16 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "70cc43a2bf1d950f",
+  "active": "484bf91ad2b1ae0f",
   "lastOpenFiles": [
+    "Science stuff/Биология/B. Subtilis.md",
+    "Data Structures/Trie.md",
     "Science stuff/Биология/B.Brevis.md",
-    "B. Subtilis.md",
     "Science stuff/Биология/A.Awamori.md",
     "Science stuff/Биология/S. Rouxii.md",
     "Science stuff/Биология/B. Cinerea.md",
     "Science stuff/Биология/A. Sojae.md",
-    "M. Canis.md",
+    "Science stuff/Биология/M. Canis.md",
     "Science stuff/Биология/S. Aureus.md",
     "Science stuff/Биология/A. Calcoaceticus.md",
     "Science stuff/Биология/T. Tonsurans.md",
@@ -320,7 +333,6 @@
     "Science stuff/Биология/A.Niger.md",
     "Science stuff/Биология/A.Xylenium.md",
     "Science stuff/Биология/Furfur.md",
-    "Science stuff/Биология/S. Dysenteriae.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
