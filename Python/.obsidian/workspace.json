@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42bb3b8ff981d61e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Simulated annealing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science stuff/Биология/C.Diptheroid.md",
+                "file": "Algorithms/Simulated annealing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,8 +233,10 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "642dacb5c1cb57df",
+  "active": "42bb3b8ff981d61e",
   "lastOpenFiles": [
+    "Algorithms/Edge traversal algorithm.md",
+    "Science stuff/Биология/C.Diptheroid.md",
     "Science stuff/Биология/V. Parshaemolyticus.md",
     "Science stuff/Биология/A. Calcoaceticus.md",
     "Science stuff/Биология/S. Aureus.md",
@@ -239,7 +253,6 @@
     "Science stuff/Биология/T. Tonsurans.md",
     "Science stuff/Биология/S.Perfrigens.md",
     "Science stuff/Биология/M.Lacunata.md",
-    "Science stuff/Биология/C.Diptheroid.md",
     "Science stuff/Биология/С.Trichoides.md",
     "Science stuff/Биология/Метано-ферментативные бактерии.md",
     "Science stuff/Биология/Fluorescens.md",
@@ -248,7 +261,6 @@
     "Science stuff/Биология/Physarum Polycepharum.md",
     "Science stuff/Биология/Proteus Vulgaris.md",
     "Science stuff/Биология/S.Cerevisae.md",
-    "Science stuff/Биология/A.Niger.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
