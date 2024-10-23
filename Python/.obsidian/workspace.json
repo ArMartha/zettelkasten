@@ -126,21 +126,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "42bb3b8ff981d61e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto/RSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -206,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/RSA.md",
+                "file": "Science stuff/Биология/C.Diptheroid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,15 +221,24 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "42bb3b8ff981d61e",
+  "active": "642dacb5c1cb57df",
   "lastOpenFiles": [
-    "Crypto/Salsa20.md",
+    "Algorithms/Divide and conquer algorithm.md",
+    "Science stuff/Биология/A. Sojae.md",
+    "Science stuff/Биология/A. Calcoaceticus.md",
+    "Science stuff/Биология/0-157.md",
+    "Science stuff/Alder's razor.md",
+    "Algorithms/Sorting algorithms/Bubble sort.md",
+    "Algorithms/Sorting algorithms/Quick sort.md",
+    "Algorithms/Sorting algorithms/Pyramidal sort.md",
+    "Algorithms/Sorting algorithms/Natsort.md",
+    "Algorithms/Sorting algorithms/Insertion sort.md",
     "Crypto/RSA.md",
+    "Crypto/Salsa20.md",
     "Algorithms/Simulated annealing.md",
     "Algorithms/Edge traversal algorithm.md",
     "Science stuff/Биология/C.Diptheroid.md",
     "Science stuff/Биология/V. Parshaemolyticus.md",
-    "Science stuff/Биология/A. Calcoaceticus.md",
     "Science stuff/Биология/S. Aureus.md",
     "Science stuff/Биология/B.Brevis.md",
     "Math/Pareto principle.md",
@@ -251,16 +248,7 @@
     "Science stuff/Биология/A.Awamori.md",
     "Science stuff/Биология/S. Rouxii.md",
     "Science stuff/Биология/B. Cinerea.md",
-    "Science stuff/Биология/A. Sojae.md",
     "Science stuff/Биология/M. Canis.md",
-    "Science stuff/Биология/T. Tonsurans.md",
-    "Science stuff/Биология/S.Perfrigens.md",
-    "Science stuff/Биология/M.Lacunata.md",
-    "Science stuff/Биология/С.Trichoides.md",
-    "Science stuff/Биология/Метано-ферментативные бактерии.md",
-    "Science stuff/Биология/Fluorescens.md",
-    "Science stuff/Биология/E.coli.md",
-    "Science stuff/Биология/P.Shigelloides.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
