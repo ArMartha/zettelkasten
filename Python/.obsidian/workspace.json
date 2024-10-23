@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Simulated annealing.md",
+                "file": "Crypto/RSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Simulated annealing.md",
+                "file": "Crypto/RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +235,9 @@
   },
   "active": "42bb3b8ff981d61e",
   "lastOpenFiles": [
+    "Crypto/Salsa20.md",
+    "Crypto/RSA.md",
+    "Algorithms/Simulated annealing.md",
     "Algorithms/Edge traversal algorithm.md",
     "Science stuff/Биология/C.Diptheroid.md",
     "Science stuff/Биология/V. Parshaemolyticus.md",
@@ -258,9 +261,6 @@
     "Science stuff/Биология/Fluorescens.md",
     "Science stuff/Биология/E.coli.md",
     "Science stuff/Биология/P.Shigelloides.md",
-    "Science stuff/Биология/Physarum Polycepharum.md",
-    "Science stuff/Биология/Proteus Vulgaris.md",
-    "Science stuff/Биология/S.Cerevisae.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
