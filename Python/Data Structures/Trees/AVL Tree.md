@@ -6,3 +6,5 @@ An **AVL Tree** is a **[[Data Structures/Trees/Binary Search Tree|Binary Searc
 - A **[[Data Structures/Trees/Binary Search Tree|Binary Search Tree]]** is an **AVL Tree** if, for all nodes _u_ in the tree, the balance factor of _u_ is either -1, 0, or 1
 The worst-case time complexity for finding, inserting, or removing an element is O(log _n_) because the height of the tree is at worst O(log _n_).
 **AVL Tree** required to make two passes through the tree for inserting or removing elements: one pass down the tree to actually perform the insertion or removal, and then another pass up the tree to maintain the tree's balance
+
+AVL Tree is more balanced than [[Red Black Tree]]

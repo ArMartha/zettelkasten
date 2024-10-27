@@ -121,14 +121,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science stuff/Биология/C.Diptheroid.md",
+                "file": "Data Structures/Trees/2-4 Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cae970ceea5d98e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Trees/Randomized Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a52828f5e97b75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Trees/Red Black Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science stuff/Биология/C.Diptheroid.md",
+                "file": "Data Structures/Trees/Red Black Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,8 +245,23 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "642dacb5c1cb57df",
+  "active": "1a52828f5e97b75f",
   "lastOpenFiles": [
+    "Data Structures/Trees/AVL Tree.md",
+    "Data Structures/Trees/Splay tree.md",
+    "Data Structures/Trees/Randomized Search Tree.md",
+    "Data Structures/Trees/Minimal spanning tree.md",
+    "Data Structures/Trees/H-Tree.md",
+    "Data Structures/Trees/Forest.md",
+    "Data Structures/Trees/Binary Search Tree.md",
+    "Data Structures/Trees/Balanced Binary Tree.md",
+    "Data Structures/Trees/Red Black Tree.md",
+    "Data Structures/Trees/2-4 Tree.md",
+    "Data Structures/Trees/Abstract Syntax Tree.md",
+    "Data Structures/Trees/B-Tree.md",
+    "Без названия",
+    "Algorithms/Tree algorithm/AVL Rotation.md",
+    "Science stuff/Биология/C.Diptheroid.md",
     "Algorithms/Divide and conquer algorithm.md",
     "Science stuff/Биология/A. Sojae.md",
     "Science stuff/Биология/A. Calcoaceticus.md",
@@ -235,20 +274,6 @@
     "Algorithms/Sorting algorithms/Insertion sort.md",
     "Crypto/RSA.md",
     "Crypto/Salsa20.md",
-    "Algorithms/Simulated annealing.md",
-    "Algorithms/Edge traversal algorithm.md",
-    "Science stuff/Биология/C.Diptheroid.md",
-    "Science stuff/Биология/V. Parshaemolyticus.md",
-    "Science stuff/Биология/S. Aureus.md",
-    "Science stuff/Биология/B.Brevis.md",
-    "Math/Pareto principle.md",
-    "Math/Secretary problem.md",
-    "Data Structures/Trie.md",
-    "Science stuff/Биология/B. Subtilis.md",
-    "Science stuff/Биология/A.Awamori.md",
-    "Science stuff/Биология/S. Rouxii.md",
-    "Science stuff/Биология/B. Cinerea.md",
-    "Science stuff/Биология/M. Canis.md",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
     "Data Structures/Trees",
@@ -258,7 +283,6 @@
     "Databases/PostgreSQL",
     "Databases/Oracle",
     "Databases/MariaDB",
-    "Databases",
-    "Crypto"
+    "Databases"
   ]
 }
