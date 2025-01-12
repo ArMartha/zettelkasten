@@ -1,4 +1,4 @@
-[[Binary Search Tree#]] in which following four properties must hold:
+[[Binary Search Tree]] in which following four properties must hold:
 1. All must be colored either red or black
 2. The root of the tree must be black
 3. If node is red,, all of its children must be black
