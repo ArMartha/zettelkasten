@@ -314,9 +314,21 @@
               "icon": "lucide-file",
               "title": "R.Javanicus"
             }
+          },
+          {
+            "id": "f875d5c90e434825",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -417,7 +429,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "6fefbc5d56b70adc",
+  "active": "f875d5c90e434825",
   "lastOpenFiles": [
     "Science stuff/Биология/R.Chrisogenum.md",
     "A.Alternata.md",
