@@ -6,3 +6,4 @@
 "Null references" are colored black
 
  **Red-Black Trees** do indeed also have a **O(log _n_) worst-case** time complexity.
+ **Red-Black Trees** perform better with insert and remove operations.

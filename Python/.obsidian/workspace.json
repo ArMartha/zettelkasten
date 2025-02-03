@@ -319,12 +319,14 @@
             "id": "f875d5c90e434825",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Data Structures/Trees/Red Black Tree.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Red Black Tree"
             }
           }
         ],
@@ -431,6 +433,7 @@
   },
   "active": "f875d5c90e434825",
   "lastOpenFiles": [
+    "Data Structures/Trees/AVL Tree.md",
     "Science stuff/Биология/R.Chrisogenum.md",
     "A.Alternata.md",
     "Science stuff/Биология/A. Calcoaceticus.md",
@@ -456,7 +459,6 @@
     "Science stuff/Биология/C.Trichoides.md",
     "Science stuff/Биология/Fluorescens.md",
     "Science stuff/Биология/Хиочи.md",
-    "Science stuff/Биология/L.Edodes.md",
     "Без названия",
     "Algorithms/String algorithms",
     "Science stuff/Биология",

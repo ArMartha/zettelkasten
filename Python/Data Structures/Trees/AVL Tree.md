@@ -8,3 +8,4 @@ The worst-case time complexity for finding, inserting, or removing an element is
 **AVL Tree** required to make two passes through the tree for inserting or removing elements: one pass down the tree to actually perform the insertion or removal, and then another pass up the tree to maintain the tree's balance
 
 AVL Tree is more balanced than [[Red Black Tree]]
+**AVL Trees** perform better with find operations
