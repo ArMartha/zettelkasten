@@ -4,345 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "97a5c18fc5414c3a",
+        "id": "27aa23b257cb8e89",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff8619c4bd5c750",
+            "id": "8e29138ae8de62c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science stuff/Биология/B.Halodurans.md",
+                "file": "Algorithms/Solving pattern/Скользящее окно.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B.Halodurans"
-            }
-          },
-          {
-            "id": "6b1e59d14fb6e80f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/L.Sakey.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L.Sakey"
-            }
-          },
-          {
-            "id": "4c4c3a4936883d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/L.Casei.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L.Casei"
-            }
-          },
-          {
-            "id": "7dcd696d5a91b759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/S. Dysenteriae.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S. Dysenteriae"
-            }
-          },
-          {
-            "id": "1cba33c1c6ba728e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Furfur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Furfur"
-            }
-          },
-          {
-            "id": "2edc480f5fb6dcee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Fluorescens.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fluorescens"
-            }
-          },
-          {
-            "id": "b08ebd5fe775ad29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/V. Parshaemolyticus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "V. Parshaemolyticus"
-            }
-          },
-          {
-            "id": "ad4e11bb1ff9e2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Метано-ферментативные бактерии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Метано-ферментативные бактерии"
-            }
-          },
-          {
-            "id": "e4113bf8d7bea8ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/C.Trichoides.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C.Trichoides"
-            }
-          },
-          {
-            "id": "642dacb5c1cb57df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/2-4 Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2-4 Tree"
-            }
-          },
-          {
-            "id": "cae970ceea5d98e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Randomized Search Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Randomized Search Tree"
-            }
-          },
-          {
-            "id": "1a52828f5e97b75f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tree"
-            }
-          },
-          {
-            "id": "80232cbd0507cd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/A.Orizae.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A.Orizae"
-            }
-          },
-          {
-            "id": "3192145e9faefc97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Зола.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Зола"
-            }
-          },
-          {
-            "id": "a2e7245e1e3b5fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/E.coli.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E.coli"
-            }
-          },
-          {
-            "id": "83472fbc995424a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/B. Subtilis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B. Subtilis"
-            }
-          },
-          {
-            "id": "0df95995c7c1642a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/G.etunicatum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "G.etunicatum"
-            }
-          },
-          {
-            "id": "25b38676a95fafa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Proteus Vulgaris.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proteus Vulgaris"
-            }
-          },
-          {
-            "id": "bb609b2f23b8852a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/Proteus Vulgaris.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proteus Vulgaris"
-            }
-          },
-          {
-            "id": "813705197067ab7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/V. Parshaemolyticus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "V. Parshaemolyticus"
-            }
-          },
-          {
-            "id": "2b3451e6912f9c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/A. Calcoaceticus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A. Calcoaceticus"
-            }
-          },
-          {
-            "id": "6fefbc5d56b70adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science stuff/Биология/R.Javanicus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "R.Javanicus"
-            }
-          },
-          {
-            "id": "f875d5c90e434825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees/Red Black Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Black Tree"
-            }
-          },
-          {
-            "id": "743bdd141e9133dc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Скользящее окно"
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -444,34 +123,34 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "743bdd141e9133dc",
+  "active": "8e29138ae8de62c9",
   "lastOpenFiles": [
+    "Databases/SQLite/SQLite Quirks.md",
+    "Databases/MariaDB/MariaDB Quirks.md",
+    "Software design patterns/Iterator.md",
+    "Science stuff/Биология/B.Halodurans.md",
+    "Data Structures/Trees/Red Black Tree.md",
+    "Science stuff/Биология/R.Javanicus.md",
+    "Science stuff/Биология/A. Calcoaceticus.md",
+    "Science stuff/Биология/V. Parshaemolyticus.md",
+    "Science stuff/Биология/Proteus Vulgaris.md",
+    "Science stuff/Биология/G.etunicatum.md",
+    "Science stuff/Биология/B. Subtilis.md",
+    "Science stuff/Биология/E.coli.md",
+    "Science stuff/Биология/Зола.md",
+    "Science stuff/Биология/A.Orizae.md",
+    "Data Structures/Trees/Tree.md",
+    "Data Structures/Trees/Randomized Search Tree.md",
+    "Data Structures/Trees/2-4 Tree.md",
+    "Science stuff/Биология/C.Trichoides.md",
+    "Science stuff/Биология/Метано-ферментативные бактерии.md",
+    "Science stuff/Биология/Fluorescens.md",
+    "Science stuff/Биология/Furfur.md",
+    "Science stuff/Биология/S. Dysenteriae.md",
+    "Science stuff/Биология/L.Casei.md",
+    "Science stuff/Биология/L.Sakey.md",
     "Data Structures/Trees/AVL Tree.md",
     "Science stuff/Биология/R.Chrisogenum.md",
-    "A.Alternata.md",
-    "Science stuff/Биология/A. Calcoaceticus.md",
-    "Science stuff/Биология/Alternia.md",
-    "Science stuff/Биология/L.Lactis.md",
-    "Science stuff/Биология/L.Plantarum.md",
-    "Science stuff/Биология/S. Aureus.md",
-    "Science stuff/Биология/M.Lacunata.md",
-    "Science stuff/Биология/T.Rubrum.md",
-    "Science stuff/Биология/V. Parshaemolyticus.md",
-    "Science stuff/Биология/T. Tonsurans.md",
-    "Science stuff/Биология/S.Perfrigens.md",
-    "Science stuff/Биология/X.campestris.md",
-    "Science stuff/Биология/Proteus Vulgaris.md",
-    "Science stuff/Биология/V.Cholerae.md",
-    "Science stuff/Биология/T.harzianum.md",
-    "Science stuff/Биология/B. Subtilis.md",
-    "Science stuff/Биология/T.Coningii.md",
-    "Science stuff/Биология/E.coli.md",
-    "Science stuff/Биология/A.fumigatus.md",
-    "Science stuff/Биология/G.etunicatum.md",
-    "Science stuff/Биология/Geotrichum.md",
-    "Science stuff/Биология/C.Trichoides.md",
-    "Science stuff/Биология/Fluorescens.md",
-    "Science stuff/Биология/Хиочи.md",
     "Без названия",
     "Algorithms/String algorithms",
     "Science stuff/Биология",
