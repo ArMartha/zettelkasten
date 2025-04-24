@@ -328,9 +328,21 @@
               "icon": "lucide-file",
               "title": "Red Black Tree"
             }
+          },
+          {
+            "id": "743bdd141e9133dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -349,7 +361,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -431,7 +444,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "f875d5c90e434825",
+  "active": "743bdd141e9133dc",
   "lastOpenFiles": [
     "Data Structures/Trees/AVL Tree.md",
     "Science stuff/Биология/R.Chrisogenum.md",
