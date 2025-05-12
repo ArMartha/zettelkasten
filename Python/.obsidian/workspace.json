@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Скользящее окно"
             }
+          },
+          {
+            "id": "a9ee58bcdaa51ed5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "8e29138ae8de62c9",
+  "active": "a9ee58bcdaa51ed5",
   "lastOpenFiles": [
     "Databases/SQLite/SQLite Quirks.md",
     "Databases/MariaDB/MariaDB Quirks.md",
