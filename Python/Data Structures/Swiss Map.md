@@ -1,4 +1,4 @@
-Uses AES instructions for fast-hashing and performs key lookups in parallel using SSE instructions.
+Uses AES instructions for fast-hashing and performs key lookups in parallel using [[SSE instructions]].
 SwissMap is faster and more memory efficient than Golang's built-in map.
 
 "Flat" Swiss tables store their value_type inside the container's main array to avoid memory indirections. Because they move data when they rehash, elements do not get pointer stability. 
