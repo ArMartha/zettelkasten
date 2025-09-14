@@ -11,14 +11,14 @@
             "id": "14c3b568428d6fe1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "SSE instructions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "SSE instructions"
             }
           }
         ]
@@ -182,6 +182,11 @@
   },
   "active": "14c3b568428d6fe1",
   "lastOpenFiles": [
+    "README.md",
+    "Python/Data Structures/Heap.md",
+    "Python/Data Structures/Dictionary.md",
+    "Python/Data Structures/Deque.md",
+    "Python/Data Structures/Acyclic Graph.md",
     "Python/Data Structures/Trees/Abstract Syntax Tree.md",
     "Python/Data Structures/Trees/Суффиксное дерево.md",
     "Python/Data Structures/Trees/Неявное суффиксное дерево.md",
@@ -191,14 +196,12 @@
     "Python/Algorithms/Алгоритм Укконена.md",
     "Python/Algorithms/Ant colony optimization algorithm.md",
     "Python/Data Structures/Trees/Unrooted tree.md",
-    "Python/Data Structures/Acyclic Graph.md",
     "Python/Algorithms/Greedy algorithm/Borůvka's algorithm.md",
     "Python/Algorithms/Graph algortihm/Dijkstra's Algorithm.md",
     "Python/Algorithms/Graph algortihm/Blossom algorithm.md",
     "i.pub",
     "i",
     "Untitled.canvas",
-    "README.md",
     "Python/Algorithms/Elastic net regularization.md"
   ]
 }
