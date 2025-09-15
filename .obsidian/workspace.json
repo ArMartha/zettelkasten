@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSE instructions.md",
+                "file": "Python/Algorithms/Sorting algorithms/Bubble sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSE instructions"
+              "title": "Bubble sort"
             }
           }
         ]
@@ -182,6 +182,10 @@
   },
   "active": "14c3b568428d6fe1",
   "lastOpenFiles": [
+    "Python/Algorithms/Sorting algorithms/Merge sort.md",
+    "Python/Algorithms/Sorting algorithms/Insertion sort.md",
+    "Python/Algorithms/Sorting algorithms/Bubble sort.md",
+    "SSE instructions.md",
     "README.md",
     "Python/Data Structures/Heap.md",
     "Python/Data Structures/Dictionary.md",
@@ -191,7 +195,6 @@
     "Python/Data Structures/Trees/Суффиксное дерево.md",
     "Python/Data Structures/Trees/Неявное суффиксное дерево.md",
     "Python/Data Structures/Trees/2-4 Tree.md",
-    "SSE instructions.md",
     "Python/Data Structures/Swiss Map.md",
     "Python/Algorithms/Алгоритм Укконена.md",
     "Python/Algorithms/Ant colony optimization algorithm.md",
