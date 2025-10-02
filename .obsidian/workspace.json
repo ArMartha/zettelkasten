@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Bubble sort"
             }
+          },
+          {
+            "id": "8f80c7afe846f05e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14c3b568428d6fe1",
+  "active": "8f80c7afe846f05e",
   "lastOpenFiles": [
     "Python/Algorithms/Sorting algorithms/Merge sort.md",
     "Python/Algorithms/Sorting algorithms/Insertion sort.md",
