@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "SSE instructions"
             }
+          },
+          {
+            "id": "cfbf586f0fc94ece",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80a7b40bc86af59b",
+  "active": "cfbf586f0fc94ece",
   "lastOpenFiles": [
     "Security descriptor.md",
     "Python/Data Structures/Dictionary.md",
