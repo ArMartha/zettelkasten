@@ -4,99 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5215f8fb2fce14da",
+        "id": "6e41a61875fa6219",
         "type": "tabs",
         "children": [
           {
-            "id": "14c3b568428d6fe1",
+            "id": "f14a5512ba9e7078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Data Structures/Dictionary.md",
+                "file": "Python/Algorithms/Алгоритм Укконена.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
-            }
-          },
-          {
-            "id": "80a7b40bc86af59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/SSE instructions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSE instructions"
-            }
-          },
-          {
-            "id": "cfbf586f0fc94ece",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "3dbfa1aa19cbe838",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "4f1bd8c3cf89adbb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "f4ef1b75edacb04b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "59a8d819ab851692",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Алгоритм Укконена"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,15 +180,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59a8d819ab851692",
+  "active": "f14a5512ba9e7078",
   "lastOpenFiles": [
-    "Security descriptor.md",
-    "Python/Data Structures/Dictionary.md",
-    "Python/SSE instructions.md",
-    "README.md",
-    "Python/Algorithms/Sorting algorithms/Bubble sort.md",
+    "Python/Algorithms/Sorting algorithms/Quick sort.md",
+    "Python/Algorithms/Sorting algorithms/Pyramidal sort.md",
+    "Python/Algorithms/Sorting algorithms/Natsort.md",
     "Python/Algorithms/Sorting algorithms/Merge sort.md",
     "Python/Algorithms/Sorting algorithms/Insertion sort.md",
+    "Python/Algorithms/Sorting algorithms/Bubble sort.md",
+    "Python/SSE instructions.md",
+    "Security descriptor.md",
+    "Python/Data Structures/Dictionary.md",
+    "README.md",
     "Python/Data Structures/Heap.md",
     "Python/Data Structures/Deque.md",
     "Python/Data Structures/Acyclic Graph.md",
