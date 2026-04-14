@@ -82,9 +82,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.5"
             }
+          },
+          {
+            "id": "59a8d819ab851692",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -243,7 +255,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4ef1b75edacb04b",
+  "active": "59a8d819ab851692",
   "lastOpenFiles": [
     "Security descriptor.md",
     "Python/Data Structures/Dictionary.md",
