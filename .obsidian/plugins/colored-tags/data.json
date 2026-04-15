@@ -1,0 +1,33 @@
+{
+  "palette": {
+    "seed": 3,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "algorithm": 1,
+    "avl": 18,
+    "bacteria": 2,
+    "distributed": 3,
+    "docker": 4,
+    "dynamic": 5,
+    "glossary": 6,
+    "graph": 7,
+    "greedy": 10,
+    "optimization": 11,
+    "pattern": 12,
+    "search": 17,
+    "solving": 13,
+    "sorting": 14,
+    "stamm": 9,
+    "string": 15,
+    "tree": 16
+  },
+  "tagColors": {},
+  "_version": 4
+}

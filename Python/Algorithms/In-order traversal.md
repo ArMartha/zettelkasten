@@ -1,4 +1,5 @@
-We first recurse on the left child (if one exists), then we recurse on the right child (if one exists), and then we visit the current node. Put simply LRV (left-right-visit)
+#algorithm #tree
+We first recurse on the left child (if one exists), then we visit current node, and then we recurse on the right child (if one exists). Put simply LVR (left-visit-right).
 
 Python code:
 ```python
@@ -9,13 +10,13 @@ Python code:
 #         self.left = left
 #         self.right = right
 class Solution:
-    def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         val = []
         def inorder_traversal(root, val):
             if root:
                 inorder_traversal(root.left, val)
-                inorder_traversal(root.right, val)
                 val.append(root.val)
+                inorder_traversal(root.right, val)
         inorder_traversal(root, val)
         return val
 ```

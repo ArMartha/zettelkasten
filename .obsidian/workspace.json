@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "11065a3f588b6547",
+        "id": "cd28ff8bf139e675",
         "type": "tabs",
         "children": [
           {
-            "id": "abdff6b418b5e016",
+            "id": "cc5752a1b455f630",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Python/Data Structures/Swiss Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Swiss Map"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#glossary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,35 +180,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48a1c3b4366b2714",
+  "active": "cc5752a1b455f630",
   "lastOpenFiles": [
-    "Secure images in Docker.md",
-    "Python/Science stuff/Биология/V.Cholerae.md",
-    "Python/Algorithms/Optimisation/Duff's device.md",
-    "Python/Algorithms/Travelling Salesman Problem.md",
-    "Python/Algorithms/Traveling Salesman Problem.md",
-    "Python/Crypto/Caesar's Cipher.md",
-    "Python/Algorithms/Greedy algorithm/Borůvka's algorithm.md",
-    "Python/Algorithms/Dijkstra's Algorithm.md",
+    "Python/Algorithms/Kruskal's algorithm.md",
+    "Python/Algorithms/AVL Rotation.md",
+    "Python/Algorithms/Pre-order traversal.md",
+    "Python/Algorithms/Post-order traversal.md",
+    "Python/Algorithms/Level-order traversal.md",
+    "Python/Algorithms/In-order traversal.md",
+    "Python/Algorithms/DFS.md",
+    "Python/Algorithms/BFS.md",
+    "Python/Algorithms/Borůvka's algorithm.md",
     "Python/Algorithms/Blossom algorithm.md",
-    "Python/Algorithms/Raft.md",
-    "Python/Algorithms/Gossip.md",
-    "Python/Algorithms/Chord.md",
-    "Без названия.canvas",
-    "Python/Simple path.md",
-    "Python/Simple circuit.md",
-    "Python/Root node.md",
-    "Python/Big-O notation.md",
-    "Python/SSE instructions.md",
-    "SSE instructions.md",
+    "Python/Algorithms/Binary search.md",
+    "Python/Algorithms/Ant colony optimization algorithm.md",
+    "Python/Algorithms/Фильтр Блума.md",
     "Python/Algorithms/Алгоритм Укконена.md",
-    "Python/Algorithms/Sorting algorithms/Quick sort.md",
-    "Python/Algorithms/Sorting algorithms/Pyramidal sort.md",
-    "Python/Algorithms/Sorting algorithms/Natsort.md",
-    "Python/Algorithms/Sorting algorithms/Merge sort.md",
-    "Python/Algorithms/Sorting algorithms/Insertion sort.md",
-    "Python/Algorithms/Sorting algorithms/Bubble sort.md",
-    "Security descriptor.md",
+    "Python/Algorithms/Boyer–Moore string-search algorithm.md",
+    "Python/Algorithms/Rabin-Karp Algorithm.md",
+    "Python/Algorithms/Knuth-Morris-Pratt algorithm.md",
+    "Python/Algorithms/Bubble sort.md",
+    "Python/Algorithms/Timsort.md",
+    "Python/Algorithms/Quick sort.md",
+    "Python/Algorithms/Pyramidal sort.md",
+    "Python/Algorithms/Natsort.md",
+    "Python/Algorithms/Merge sort.md",
+    "Python/Algorithms/Insertion sort.md",
+    "Python/Algorithms/Solving pattern/K-Way merging.md",
+    "Python/Algorithms/Solving pattern/BFS Tree (solving pattern).md",
+    "Без названия.canvas",
     "i.pub",
     "i",
     "Untitled.canvas"

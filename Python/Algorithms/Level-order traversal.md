@@ -1,3 +1,4 @@
+#algorithm #tree
 We visit nodes level-by-level (where root is the "first level", its children are the "second level", etc.) and on a given level, we visit nodes left-to-right.
 
 Python code:
