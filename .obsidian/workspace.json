@@ -11,10 +11,14 @@
             "id": "abdff6b418b5e016",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Secure images in Docker.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Secure images in Docker"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "abdff6b418b5e016",
   "lastOpenFiles": [
+    "Secure images in Docker.md",
     "Python/Algorithms/Алгоритм Укконена.md",
     "Python/Algorithms/Sorting algorithms/Quick sort.md",
     "Python/Algorithms/Sorting algorithms/Pyramidal sort.md",
