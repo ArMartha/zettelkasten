@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -182,6 +182,24 @@
   },
   "active": "abdff6b418b5e016",
   "lastOpenFiles": [
+    "Python/Science stuff/Биология/V.Cholerae.md",
+    "Python/Algorithms/Optimisation/Duff's device.md",
+    "Python/Algorithms/Travelling Salesman Problem.md",
+    "Python/Algorithms/Traveling Salesman Problem.md",
+    "Python/Crypto/Caesar's Cipher.md",
+    "Python/Algorithms/Greedy algorithm/Borůvka's algorithm.md",
+    "Python/Algorithms/Dijkstra's Algorithm.md",
+    "Python/Algorithms/Blossom algorithm.md",
+    "Python/Algorithms/Raft.md",
+    "Python/Algorithms/Gossip.md",
+    "Python/Algorithms/Chord.md",
+    "Без названия.canvas",
+    "Python/Simple path.md",
+    "Python/Simple circuit.md",
+    "Python/Root node.md",
+    "Python/Big-O notation.md",
+    "Python/SSE instructions.md",
+    "SSE instructions.md",
     "Secure images in Docker.md",
     "Python/Algorithms/Алгоритм Укконена.md",
     "Python/Algorithms/Sorting algorithms/Quick sort.md",
@@ -190,26 +208,9 @@
     "Python/Algorithms/Sorting algorithms/Merge sort.md",
     "Python/Algorithms/Sorting algorithms/Insertion sort.md",
     "Python/Algorithms/Sorting algorithms/Bubble sort.md",
-    "Python/SSE instructions.md",
     "Security descriptor.md",
-    "Python/Data Structures/Dictionary.md",
-    "README.md",
-    "Python/Data Structures/Heap.md",
-    "Python/Data Structures/Deque.md",
-    "Python/Data Structures/Acyclic Graph.md",
-    "Python/Data Structures/Trees/Abstract Syntax Tree.md",
-    "Python/Data Structures/Trees/Суффиксное дерево.md",
-    "Python/Data Structures/Trees/Неявное суффиксное дерево.md",
-    "Python/Data Structures/Trees/2-4 Tree.md",
-    "Python/Data Structures/Swiss Map.md",
-    "Python/Algorithms/Ant colony optimization algorithm.md",
-    "Python/Data Structures/Trees/Unrooted tree.md",
-    "Python/Algorithms/Greedy algorithm/Borůvka's algorithm.md",
-    "Python/Algorithms/Graph algortihm/Dijkstra's Algorithm.md",
-    "Python/Algorithms/Graph algortihm/Blossom algorithm.md",
     "i.pub",
     "i",
-    "Untitled.canvas",
-    "Python/Algorithms/Elastic net regularization.md"
+    "Untitled.canvas"
   ]
 }

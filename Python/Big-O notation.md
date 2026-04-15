@@ -1,3 +1,4 @@
+#algorithm #glossary
 Used for time execution evaluation
 
 O(1)- constant time - the best time
