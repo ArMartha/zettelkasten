@@ -9,3 +9,4 @@ The worst-case time complexity for finding, inserting, or removing an element is
 
 AVL Tree is more balanced than [[Red Black Tree]]
 **AVL Trees** perform better with find operations
+[[Red Black Tree]] and AVL Trees have the same worst-case and average-case find, insert, and remove Big-O time complexities
