@@ -195,10 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9c21bae7100ec23",
+  "active": "8d914c09eed41940",
   "lastOpenFiles": [
-    "Python/Algorithms/AVL Rotation.md",
+    "Python/Data Structures/Trees/Binary Search Tree.md",
     "Node recoloring.md",
+    "**Binary Search Tree**.md",
+    "Python/Algorithms/AVL Rotation.md",
     "Python/Data Structures/Trees/Red Black Tree.md",
     "Python/Data Structures/Trees/AVL Tree.md",
     "Python/Data Structures/Trees/2-4 Tree.md",
@@ -221,8 +223,6 @@
     "Python/Math/Secretary problem.md",
     "Python/Math/Pareto principle.md",
     "Python/Math/Geometric distribution.md",
-    "Python/Math/Bernoulli distribution.md",
-    "Python/Software design patterns/Iterator.md",
     "Без названия.canvas",
     "i.pub",
     "i",
