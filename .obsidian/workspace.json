@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Data Structures/Trees/Red Black Tree.md",
+                "file": "Python/Data Structures/K-D Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Black Tree"
+              "title": "K-D Trees"
             }
           }
         ],
@@ -211,9 +211,9 @@
   },
   "active": "9a6db0aefa41de50",
   "lastOpenFiles": [
+    "Python/Data Structures/Trees/Red Black Tree.md",
     "Python/Data Structures/Trees/Treap.md",
     "Python/Data Structures/K-D Trees.md",
-    "Python/Data Structures/Trees/Red Black Tree.md",
     "Python/Data Structures/Trees/AVL Tree.md",
     "Node recoloring.md",
     "Python/Data Structures/Trees/Binary Search Tree.md",
