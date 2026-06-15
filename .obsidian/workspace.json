@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Data Structures/K-D Trees.md",
+                "file": "Python/Some stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-D Trees"
+              "title": "Some stuff"
             }
           }
         ],
@@ -211,9 +211,10 @@
   },
   "active": "9a6db0aefa41de50",
   "lastOpenFiles": [
+    "Python/Data Structures/K-D Trees.md",
+    "Python/Some stuff.md",
     "Python/Data Structures/Trees/Red Black Tree.md",
     "Python/Data Structures/Trees/Treap.md",
-    "Python/Data Structures/K-D Trees.md",
     "Python/Data Structures/Trees/AVL Tree.md",
     "Node recoloring.md",
     "Python/Data Structures/Trees/Binary Search Tree.md",
@@ -236,7 +237,6 @@
     "Python/Databases/PostgreSQL/PostgreSQL quirks.md",
     "Python/Databases/Oracle/Oracle Quirks.md",
     "Python/Databases/MariaDB/MariaDB Quirks.md",
-    "Python/Math/Secretary problem.md",
     "Без названия.canvas",
     "i.pub",
     "i",
