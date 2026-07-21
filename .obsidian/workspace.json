@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Some stuff.md",
+                "file": "Python/Algorithms/Фильтр Блума.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some stuff"
+              "title": "Фильтр Блума"
             }
           }
         ],
@@ -211,19 +211,20 @@
   },
   "active": "9a6db0aefa41de50",
   "lastOpenFiles": [
-    "Python/Data Structures/K-D Trees.md",
+    "Python/Algorithms/Алгоритм Укконена.md",
+    "README.md",
     "Python/Some stuff.md",
+    "Python/Data Structures/K-D Trees.md",
     "Python/Data Structures/Trees/Red Black Tree.md",
     "Python/Data Structures/Trees/Treap.md",
     "Python/Data Structures/Trees/AVL Tree.md",
-    "Node recoloring.md",
+    "Python/Node recoloring.md",
     "Python/Data Structures/Trees/Binary Search Tree.md",
     "**Binary Search Tree**.md",
     "Python/Algorithms/AVL Rotation.md",
     "Python/Data Structures/Trees/2-4 Tree.md",
     "Python/Data Structures/Trees/B-Tree.md",
     "Security descriptor.md",
-    "README.md",
     "Secure images in Docker.md",
     "Python/SSE instructions.md",
     "Python/Simple path.md",
@@ -236,7 +237,6 @@
     "Python/Databases/SQLite/SQLite Quirks.md",
     "Python/Databases/PostgreSQL/PostgreSQL quirks.md",
     "Python/Databases/Oracle/Oracle Quirks.md",
-    "Python/Databases/MariaDB/MariaDB Quirks.md",
     "Без названия.canvas",
     "i.pub",
     "i",
