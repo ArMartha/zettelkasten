@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Algorithms/Solving pattern/Две кучи.md",
+                "file": "Python/Algorithms/Solving pattern/Быстрый и медленный указатель.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Две кучи"
+              "title": "Быстрый и медленный указатель"
             }
           }
         ],
@@ -283,11 +283,21 @@
   },
   "active": "ffc8d8a2f6052d29",
   "lastOpenFiles": [
-    "Python/Algorithms/Solving pattern/Два указателя или итератора.md",
+    "Python/Algorithms/Solving pattern/Дерево DFS.md",
+    "Python/Algorithms/Solving pattern/Модифицированный бинарный поиск.md",
+    "Python/Algorithms/Solving pattern/Backtracking.md",
     "Python/Algorithms/Solving pattern/Быстрый и медленный указатель.md",
     "Python/Algorithms/Solving pattern/K-Way merging.md",
     "Python/Algorithms/Solving pattern/BFS Tree (solving pattern).md",
+    "Python/Algorithms/Solving pattern/Циклическая сортировка.md",
+    "Python/Algorithms/Solving pattern/Топологическая сортировка.md",
+    "Python/Algorithms/Solving pattern/Топ К-элементов.md",
+    "Python/Algorithms/Solving pattern/Слияние интервалов.md",
+    "Python/Algorithms/Solving pattern/Скользящее окно.md",
     "Python/Algorithms/Solving pattern/Разворот связанного списка.md",
+    "Python/Algorithms/Solving pattern/Подмножества.md",
+    "Python/Algorithms/Solving pattern/Две кучи.md",
+    "Python/Algorithms/Solving pattern/Два указателя или итератора.md",
     "Python/Algorithms/Introsort.md",
     "Python/Algorithms/Rabin-Karp Algorithm.md",
     "Python/Algorithms/Timsort.md",
@@ -300,16 +310,6 @@
     "Python/Data Structures/Heap.md",
     "Python/Algorithms/Blossom algorithm.md",
     "Python/Algorithms/Binary search.md",
-    "Python/Algorithms/Quick sort.md",
-    "Python/Algorithms/Фильтр Блума.md",
-    "Python/Algorithms/Алгоритм Укконена.md",
-    "README.md",
-    "Python/Some stuff.md",
-    "Python/Data Structures/K-D Trees.md",
-    "Python/Data Structures/Trees/Red Black Tree.md",
-    "Python/Data Structures/Trees/Treap.md",
-    "Python/Data Structures/Trees/AVL Tree.md",
-    "Python/Node recoloring.md",
     "Без названия.canvas",
     "i.pub",
     "i",
