@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "Быстрый и медленный указатель"
             }
+          },
+          {
+            "id": "83524ee47545aa25",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.13.7"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -281,7 +293,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffc8d8a2f6052d29",
+  "active": "83524ee47545aa25",
   "lastOpenFiles": [
     "Python/Algorithms/Solving pattern/Дерево DFS.md",
     "Python/Algorithms/Solving pattern/Модифицированный бинарный поиск.md",
